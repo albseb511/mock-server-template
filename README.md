@@ -4,7 +4,7 @@
 - 
 - run the code 
 ```
-npm run install
+npm install
 ```
 - once you enter the folder
 - then run this after that
